@@ -29,22 +29,26 @@ This is a working example of **agent orchestration** which allows us to coordina
 
 Follow these steps to set up and run the demos locally.
 
-1. Clone the Repo
-
+### 1. Clone the Repo
+```bash
 git clone https://github.com/baljindersingh/multi-agent-ag2.git
 cd multi-agent-ag2
+```
 
-2. Create Virtual Environment
-
+### 2. Create Virtual Environment
+```bash
 python -m venv .venv
 source .venv/bin/activate   # Mac/Linux
 .venv\Scripts\activate      # Windows
+```
 
-3. Install Dependencies
-
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-4. Pull the Phi-3 model from Ollama (LLM backend)
-
+### 4. Pull the Phi-3 model from Ollama (LLM backend)
+```bash
 ollama pull phi3
 ollama serve
+```
