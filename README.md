@@ -25,7 +25,7 @@ This is a working example of **agent orchestration** which allows us to coordina
 
 ---
 
-# 🚀 Quickstart
+## 🚀 Quickstart
 
 Follow these steps to set up and run the demos locally.
 
