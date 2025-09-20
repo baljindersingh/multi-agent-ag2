@@ -1,0 +1,10 @@
+# AG2 library with Ollama
+ag2[ollama]
+
+# Vector database + retrieval
+chromadb
+langchain-community
+sentence-transformers
+
+# PDF document loader
+pypdf
