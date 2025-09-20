@@ -15,7 +15,7 @@ This is a working example of **Human in the Loop (HITL)** pattern that enables y
 
 ---
 
-#### [orchestration.py](orchestration.py)
+#### 🤝 [orchestration.py](orchestration.py)
 This is a working example of **agent orchestration** which allows us to coordinate multiple specialized agents to work together seamlessly. The example specifically demonstrates an **AutoPattern** orchestration pattern, where a group manager agent automatically selects agents to speak by evaluating the messages in the chat and the descriptions of the agents. This creates a natural workflow where the most appropriate agent responds based on the conversation context.
 
 ---
